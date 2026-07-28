@@ -1,7 +1,8 @@
- <img width="100%" height="300" alt="image" src="https://github.com/user-attachments/assets/92ffdb5a-8746-4789-97f8-fe3cdaff63d3" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d3grxmpkz6vcy3cgjunl4hstca&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=8d43a8&bar_color_cover=false">
+  </a>
+</p>
 
-<img width="1320" height="1522" alt="image" src="https://github.com/user-attachments/assets/79a5b3f2-808f-4552-a78d-0dd2a099a6a1" />
+<p align="center"> <img width="498" height="498%" alt="emotional-purple" src="https://github.com/user-attachments/assets/ce10f5e1-7a42-4721-b281-d7c8df32a074" />
 
-<div align="center"> tag uu
-
-## <img width="100%" height="300" alt="image" src="https://github.com/user-attachments/assets/f08ae1e8-53f5-402e-9722-e5da704944d7" />
