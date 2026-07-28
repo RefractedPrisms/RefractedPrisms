@@ -4,5 +4,8 @@
   </a>
 </p>
 
+[atabook](https://captainworm.atabook.org/) and [strawpage](https://purpss.straw.page/)
+
+
 <p align="center"> <img width="498" height="498%" alt="emotional-purple" src="https://github.com/user-attachments/assets/ce10f5e1-7a42-4721-b281-d7c8df32a074" />
 
